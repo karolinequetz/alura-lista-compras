@@ -1,27 +1,41 @@
-# LifeCycle
+# LifeCycle - Lista de compras
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
-## Development server
+Este projeto foi desenvolvido durante o curso da Alura
+ https://cursos.alura.com.br/formacao-angular-14. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Índice
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- [Visão geral](#visão-geral)
+  - [O projeto](#o-projeto)
+  - [Screenshot](#screenshot)
+- [Processo de desenvolvimento](#desenvolvimento-processo)
+  - [Construído com](#construído-com)
+- [Codificado por](#coded-by)
 
-## Build
+## Visão geral
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### O projeto
 
-## Running unit tests
+- Criar
+- Listar
+- Editar
+- Excluir
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+### Captura de tela
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+![](./alura3.png)
+![](./alura4.png)
 
-## Further help
+## Processo de desenvolvimento
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Construído com
+
+- Angular 
+
+## Codificado por
+
+- LinkedIn - [@karolinequetz](https://www.linkedin.com/in/karolinequetz)
